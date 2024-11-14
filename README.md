@@ -15,13 +15,6 @@
 
 ---
 
-## 🚀 Projects and Research Interests
-
-- **Collision Mitigation in Multi-Agent Environments**: [Brief description of the project, tools, and any specific goals or results]
-- [Any other significant project or research interest you wish to highlight]
-
----
-
 ## 🛠 Skills
 
 - **Programming Languages**: JavaScript, Python, C, C#
