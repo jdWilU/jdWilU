@@ -12,7 +12,7 @@
   - **JavaScript** - building interactive web applications
   - **Python** - scripting, data analysis, and machine learning
   - **C** and **C#** - low-level programming and systems development
-  - **MATLAB** - ontrol system analysis and simulation
+  - **MATLAB** - Control system analysis and simulation
 
 ---
 
