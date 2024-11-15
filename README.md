@@ -12,11 +12,12 @@
   - **JavaScript** - building interactive web applications
   - **Python** - scripting, data analysis, and machine learning
   - **C** and **C#** - low-level programming and systems development
+  - **MATLAB** - ontrol system analysis and simulation
 
 ---
 
 ## 🛠 Skills
 
 - **Programming Languages**: JavaScript, Python, C, C#
-- **Technologies & Tools**: MATLAB, Git, React
+- **Technologies & Tools**: MATLAB, Git, React, Roboflow, OpenCV
 - **Engineering Domains**: Electrical, Aerospace, Software Engineering, and Control Systems
