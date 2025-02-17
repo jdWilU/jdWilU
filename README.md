@@ -1,6 +1,6 @@
 # Hi there, Im Jaden
 
-🎓 I’m currently a 4th-year Engineering and IT student majoring in Electrical and Aerospace Engineering, and Computer Science.
+🎓 I’m currently a 5th-year Engineering and IT student majoring in Electrical and Aerospace Engineering, and Computer Science.
 
 ---
 
