@@ -9,7 +9,7 @@
 -  I’m currently working on a project evaluating **collision mitigation between UAVs in multi-agent environments**. This involves developing simulation software in **MATLAB** to better understand and solve challenges related to drone collision avoidance.
   
 - 💻 I have experience in:
-  - **JavaScript** - building interactive web applications
+  - **React & Java** - building interactive web applications
   - **Python** - scripting, data analysis, and machine learning
   - **C** and **C#** - low-level programming and systems development
   - **MATLAB** - Control system analysis and simulation
